@@ -1,0 +1,12 @@
+node_modules
+.idea
+.env
+.git
+logs
+.backup
+*.zip
+.vscode
+.github
+doc
+src
+database*
